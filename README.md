@@ -1,6 +1,6 @@
 # AOB UO Shard Development + Bug Reporter
 
-IMPORTANT - We are running SERVUO Software other old software RUNUO you were able to add items into the game with a server restart for certain items. For any changes on SERVUO we must restart the server and recompile it to add changes / updates to the server. Please bare this in mind any updates / fixes will need to be manually pushed and pulled through github.
+IMPORTANT - We are running SERVUO Software other old software such as RUNUO I believe you were able to add items into the game WITHOUT a server restart for certain items. For any changes on SERVUO we must restart the server and recompile it to add changes / updates to the server. Please bare this in mind any updates / fixes will need to be manually pushed and pulled through github so although it might state that the bug has been fixed it will still require a server restart.
 
 You can also use the issues button to make recommendations or improvement / content suggestions but please make sure to check if it's already reported.
 
